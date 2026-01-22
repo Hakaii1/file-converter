@@ -1,0 +1,5 @@
+/* Custom styles to supplement Tailwind */
+.drag-active {
+    border-color: #3B82F6; /* Blue-500 */
+    background-color: rgba(59, 130, 246, 0.1);
+}
